@@ -54,7 +54,7 @@
 <tspan x="10" y="826">  │   ├─┬ babel-polyfill@6.23.0 </tspan>
 <tspan x="10" y="842">  │   │ ├── babel-runtime@6.23.0 </tspan>
 <tspan x="10" y="858">  │   │ ├── core-js@2.4.1 </tspan>
-<tspan x="10" y="874">  │   │ └── regenerator-runtime@0.10.3 </tspan>
+<tspan x="10" y="874">  │   │ └── regenerator-runtime@0.10.4 </tspan>
 <tspan x="10" y="890">  │   ├── bluebird@3.5.0 </tspan>
 <tspan x="10" y="906">  │   ├─┬ request@2.81.0 </tspan>
 <tspan x="10" y="922">  │   │ ├── aws-sign2@0.6.0 </tspan>
